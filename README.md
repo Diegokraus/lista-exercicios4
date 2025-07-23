@@ -4,8 +4,8 @@ Este projeto tem como objetivo apresentar um **perfil pessoal online**, utilizan
 
 ## 📁 Estrutura do Projeto
 
-- `perfil.html` — Página principal com layout organizado semanticamente.
-- `styles.css` — Estilização com uso de Flexbox/Grid, variáveis CSS e responsividade.
+- `index.html` — Página principal com layout organizado semanticamente.
+- `style.css` — Estilização com uso de Flexbox/Grid, variáveis CSS e responsividade.
 
 ## 🧩 Tecnologias Utilizadas
 
